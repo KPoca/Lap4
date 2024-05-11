@@ -4,10 +4,6 @@
 //   Nguyen Nghiem  - 2252521
 //   Dinh Hai Nam   - 2252498
 
-// File authors:
-//   Dinh Hai Nam
-//   Ho Trong Nghia
-
 #ifndef FORKPOOL_H_
 #define FORKPOOL_H_
 
