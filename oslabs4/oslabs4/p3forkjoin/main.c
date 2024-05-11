@@ -4,8 +4,6 @@
 //   Nguyen Nghiem  - 2252521
 //   Dinh Hai Nam   - 2252498
 
-// File author: Nguyen Nghiem
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
